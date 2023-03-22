@@ -6,7 +6,7 @@ body {
 }
 
 .text2 {
-  text-align: center;
+  margin: 50px 50px 50px 50px;
 }
 
 .wrapper {
@@ -52,7 +52,7 @@ img.movepics {
 }
 
 hr {
-  margin: 0px 50px 0px 50px;
+  margin: 0px 50px 0px 30px;
 }
 .bot {
   border-bottom: solid;
@@ -70,13 +70,6 @@ header {
 
 article {
   text-align: center;
-}
-
-.shutel {
-  line-height: normal;
-  list-style: none;
-  display: inline;
-  border: 1px solid #cccccc;
 }
 
 .nasa {
@@ -106,6 +99,7 @@ aside {
   width: 40%;
   padding-left: 1rem;
   margin-top: 10px;
+  margin-right: -200px;
   float: right;
   box-shadow: inset 5px 0 5px -5px #000000;
   color: #000000;
