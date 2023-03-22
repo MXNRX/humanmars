@@ -1,0 +1,42 @@
+body {
+  background-color: rgb(225, 198, 165);
+  border: 1rem solid;
+  padding: 50px 50px 50px 50px;
+}
+
+.photo {
+  width: 450px;
+  height: 420px;
+  margin: 0px 0px 0px 460px;
+  border-radius: 50%;
+}
+
+hr {
+  margin: 0px 50px 0px 50px;
+}
+.bot {
+  border-bottom: solid;
+  margin-left: 50px;
+  text-decoration: none;
+}
+
+.divic {
+  text-align: center;
+}
+
+.shutel {
+  line-height: normal;
+  list-style: none;
+  display: inline;
+  border: 1px solid #cccccc;
+}
+
+.nasa {
+  background-color: rgb(105, 105, 233);
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-radius: 45%;
+  text-align: right;
+}
