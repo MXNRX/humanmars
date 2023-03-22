@@ -2,19 +2,6 @@ body {
   background-color: rgb(226, 196, 159);
   padding: 60px 60px 60px 60px;
   font-family: "Montserrat", sans-serif;
-  flex-wrap: wrap;
-}
-
-.text2 {
-  text-align: left;
-  text-align: right;
-  text-align: center;
-}
-
-.text3 {
-  text-align: left;
-  text-align: right;
-  text-align: center;
 }
 
 .wrapper {
@@ -60,7 +47,7 @@ img.movepics {
 }
 
 hr {
-  margin: 0px 50px 0px 30px;
+  margin: 0px 10px 0px 10px;
 }
 .bot {
   border-bottom: solid;
