@@ -5,6 +5,10 @@ body {
   font-family: "Montserrat", sans-serif;
 }
 
+.text2 {
+  text-align: center;
+}
+
 .wrapper {
   max-width: 350px;
   height: 350px;
