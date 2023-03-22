@@ -4,6 +4,12 @@ body {
   font-family: "Montserrat", sans-serif;
 }
 
+main-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
 .text2 {
   text-align: center;
 }
